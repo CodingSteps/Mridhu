@@ -1,0 +1,43 @@
+h2{
+	text-align: center;
+}
+
+div{
+	border: #c6cb8e;
+	border-width: 10px;
+	border-style: solid;
+	width: 800px;
+}
+
+
+.heading_1_4{
+	color: red;
+}
+
+.heading2{
+	color: red;
+	border-bottom: blue;
+	border-bottom-width: 4px;
+	border-style: solid;
+}
+
+.heading3{
+	color: green;
+	background: beige;
+}
+
+p{
+	background: lightblue;
+}
+
+.p1{
+	color: blue;
+	border-left: red;
+	border-left-width: 5px;
+	border-style: solid;
+}
+
+.p3{
+	color: red;
+	border: purple;
+}
