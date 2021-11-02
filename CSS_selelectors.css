@@ -18,7 +18,7 @@ div{
 	color: red;
 	border-bottom: blue;
 	border-bottom-width: 4px;
-	border-style: solid;
+	border-bottom-style: solid;
 }
 
 .heading3{
@@ -34,10 +34,10 @@ p{
 	color: blue;
 	border-left: red;
 	border-left-width: 5px;
-	border-style: solid;
+	border-left-style: solid;
 }
 
 .p3{
 	color: red;
-	border: purple;
+	border: solid purple;
 }
