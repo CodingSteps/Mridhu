@@ -1,0 +1,38 @@
+body{
+	margin: 0px;
+}
+
+.container1{
+	background-color: #FAEBD7;
+    text-align: center;
+    padding: 20px 50px 50px 50px;
+}
+
+.heading{
+	font-size: 50px;
+    font-weight: 800;
+}
+
+.container2{
+    background-color: #F5DEB3;
+}
+
+.text{
+    font-size: 20px;
+    text-align: justify;
+    padding: 20px;
+}
+
+img{
+	border-radius: 50%;
+}
+
+.highlight{
+	background-color: #B22222;
+	margin-left: 280px;
+	margin-right: 280px;
+	margin-top: 20px;
+	padding: 5px;
+	color: white;
+	font-size: 16px;
+}

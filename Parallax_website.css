@@ -1,0 +1,71 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.imgSection {
+	opacity: 0.9;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	width: 100%;
+	position: relative;
+}
+
+.image1 {
+	background-image: url("https://images.unsplash.com/photo-1418075285575-c402f1f7340f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTZ8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80");
+	height: 800px;
+}
+.image2 {
+	background-image: url("https://www.omnigraph.it/wp-content/uploads/2019/10/background-city-blur.jpg");
+	height: 400px;
+}
+.image3 {
+	background-image: url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2l0eXxlbnwwfHwwfHw%3D&w=1000&q=80");
+	height: 400px;
+}
+
+.parallaxText {
+	position: absolute;
+	width: 100%;
+	top: 40%;
+	text-align: center;
+}
+
+.darktxt {
+	background-color: black;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	font-size: 30px;
+	text-transform: uppercase;
+	letter-spacing: 8px;
+}
+
+.txtSection {
+	text-align: center;
+	padding: 20px;
+	background-color: #F4F4F4;
+	color: grey;
+	font-size: 16px;
+	line-height: 30px;
+}
+
+#grey {
+	font-weight: 700;
+	color: #666666;
+}
+
+.imgText {
+	text-align: center;
+	font-size: 30px;
+	text-transform: uppercase;
+	letter-spacing: 8px;
+	font-weight: 700;
+	color: white;
+}
+
+.dark {
+	background-color: #282E34;
+	color: white;
+}
+
